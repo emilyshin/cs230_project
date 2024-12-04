@@ -1,0 +1,4 @@
+numpy
+musdb
+scipy
+resampy
